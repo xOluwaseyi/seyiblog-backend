@@ -1,13 +1,13 @@
 {
-  "name": "Task-Tracker",
+  "name": "seyi",
   "version": "1.0.0",
   "description": "task tracker",
   "main": "server.js",
   "license": "MIT",
-  "scripts":{
+  "scripts": {
     "start": "node server.js"
   },
-  "author": "sait ibrahim",
+  "author": "oluwaseyi",
   "dependencies": {
     "json-server": "^0.17.0"
   }

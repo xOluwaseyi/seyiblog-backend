@@ -1,28 +1,28 @@
 {
-  "tasks": [
+  "blogs": [
     {
-      "text": "Attend In-Class",
-      "day": "Feb 01th at 3:30pm",
-      "isDone": false,
-      "id": 10
+      "title": "Welcome",
+      "body": "Please say something nice and thank you for your support! :-)",
+      "author": "Oluwaseyi",
+      "id": 1
     },
     {
-      "text": "Study React Pre-Class Notes",
-      "day": "Dec 12th at 2:30pm",
-      "isDone": false,
-      "id": 12
+      "title": "Hello once again",
+      "body": "Just testing one more time, say something nice and thank you for your support! :-)",
+      "author": "Oluwaseyi",
+      "id": 2
     },
     {
-      "text": "Feed the Dog",
-      "day": "Jun 06th at 7:30am",
-      "isDone": false,
-      "id": 13
+      "title": "Trying Json server again",
+      "body": "I am tired",
+      "author": "Oluwaseyi",
+      "id": 3
     },
     {
-      "text": "Make your meal",
-      "day": "Dec 12th at 4:30pm",
-      "isDone": false,
-      "id": 14
+      "title": "Trying json server once again",
+      "body": "Phew",
+      "author": "Oluwaseyi",
+      "id": 4
     }
   ]
 }
