@@ -1,28 +1,3 @@
 {
-  "blogs": [
-    {
-      "title": "Welcome",
-      "body": "Please say something nice and thank you for your support! :-)",
-      "author": "Oluwaseyi",
-      "id": 1
-    },
-    {
-      "title": "Hello once again",
-      "body": "Just testing one more time, say something nice and thank you for your support! :-)",
-      "author": "Oluwaseyi",
-      "id": 2
-    },
-    {
-      "title": "Trying Json server again",
-      "body": "I am tired",
-      "author": "Oluwaseyi",
-      "id": 3
-    },
-    {
-      "title": "Trying json server once again",
-      "body": "Phew",
-      "author": "Oluwaseyi",
-      "id": 4
-    }
-  ]
+  "blogs": []
 }
