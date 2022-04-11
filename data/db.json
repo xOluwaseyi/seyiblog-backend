@@ -1,3 +1,10 @@
 {
-  "blogs": []
+  "blogs": [
+    {
+      "title": "Welcome!",
+      "body": "Please say something nice :-)",
+      "author": "Oluwaseyi",
+      "id": 1
+    }
+  ]
 }
